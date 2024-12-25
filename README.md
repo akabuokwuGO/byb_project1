@@ -1,5 +1,7 @@
 ![my passport photograph](https://github.com/akabuokwuGO/akabuokwu/blob/main/akabuokwu.png)
 
+**About**
+
 A dedicated IT Support Specialist with over 15 years of experience in providing top-tier technical support and troubleshooting solutions. 
 
 Skilled in System Conceptualization and Feasibility, Systems Analysis and Design, System Performance Evaluation, In-house Training, Systems Administration, Investigative Trouble-shooting, System routine Maintenance
